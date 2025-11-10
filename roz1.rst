@@ -1,0 +1,19 @@
+Lista
+
+Zakupy:
+
+-  Bułki
+
+-  Woda
+
+-  Ciastka
+
+-  Czekolada
+
+-  Szynka
+
+-  Ser
+
+-  Chleb tostowy
+
+-  Ketchup

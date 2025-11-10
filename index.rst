@@ -15,3 +15,9 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+
+   zad.rst
+   roz1.rst
+   roz2.rst
+   roz3.rst
+
