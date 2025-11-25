@@ -1,5 +1,5 @@
 Opis One piece
-
+===========================
 One Piece opowiada nam historię młodego, nieznanego światu pirata o
 jakże złowieszczym i mrożącym krew w żyłach imieniu Monkey D. Luffy,
 który za cel życia obrał sobie całkiem drobne marzenie - zostanie Królem

@@ -1,5 +1,5 @@
-:mark:`Tabela`
-
+Tabela
+====================
 +---+----+-----+---+----+-------+----------+----------+----+-------+
 | L | A  | A   | E | F  | Miern | progr    | telekom  | t  | Auto  |
 | e | lg | nal | t | il | ictwo | amowanie | unikacja | ec | rskie |
